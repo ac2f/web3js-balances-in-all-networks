@@ -1,0 +1,3 @@
+E:\WindowsDirectories\Backup\a1_0\Documents\code\Bionluk.com\onuurgngr-web3\onuurgngr-web3\obj\Debug\onuurgngr-web3.njsproj.AssemblyReference.cache
+E:\WindowsDirectories\Backup\a1_0\Documents\code\Bionluk.com\onuurgngr-web3\onuurgngr-web3\obj\Debug\onuurgngr-web3.njsproj.CoreCompileInputs.cache
+E:\WindowsDirectories\Backup\a1_0\Documents\code\Bionluk.com\onuurgngr-web3\onuurgngr-web3\bin\Microsoft.NodejsTools.WebRole.dll

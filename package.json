@@ -1,0 +1,13 @@
+{
+  "name": "onuurgngr-web3",
+  "version": "0.0.0",
+  "description": "onuurgngr-web3",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "node-console-colors": "^1.1.4",
+    "web3": "^1.7.0"
+  }
+}
